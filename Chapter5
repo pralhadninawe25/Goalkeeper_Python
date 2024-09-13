@@ -1,0 +1,14 @@
+5.1 In this section i read about  parking a string into a timezone aware datetime object.
+5.2 How to constructing timezone aware datetime and learn about how to fixed offset time zones and zones with daylight savings time.
+5.3 How to compute time difference means delta= now-then
+5.4 In this section I learn about basic datetime objects usage and its types of objects.
+5.5 In this section I study about switching between time zones.
+5.6 In this section i study about simple date arithmetic.
+5.7 In this section I learn about converting timestamp to datetime.
+5.8 In this section I learn about subtracting months from a date accurately.
+5.9 In this section I learn about  parsing an arbitrary ISO 8601 timestamp with
+minimal libraries.
+5.10 How to  Get an ISO 8601 timestamp.
+5.11 Parsing a string with a short time zone name into a timezone aware datetime object.
+5.12 In this section I learn about  fuzzy datetime parsing.
+5.13  In this section I learn about  iterate over dates
